@@ -11,7 +11,7 @@
 #import "M2Tile.h"
 #import "M2Cell.h"
 
-typedef void (^M2Block)();
+typedef void (^M2Block)(void);
 
 @implementation M2Tile {
   /** The value of the tile, as some text. */

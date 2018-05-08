@@ -257,7 +257,7 @@
     case 1:
       return RGB(104, 119, 131);
     case 2:
-      return RGB(70, 128, 161);
+      return RGB(70, 121, 161);
     case 3:
       return [UIColor whiteColor];
     case 4:
